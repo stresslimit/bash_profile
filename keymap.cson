@@ -1,0 +1,3 @@
+'atom-text-editor':
+  'shift-cmd-k': 'editor:delete-line'
+  'cmd-alt-w': 'editor:toggle-soft-wrap'
